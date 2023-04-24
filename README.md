@@ -6,6 +6,9 @@
 - Pick summoner spells
 - Send a chat message when entering lobby
 
+## Screenshot
+![LeagueAutoAccept Screenshot](screenshot.png?raw=true)
+
 ## Planned
 - Backup champion to pick/ban
 - Automatic runes picker (from the premade sets)
